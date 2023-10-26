@@ -1,8 +1,6 @@
-# API Portal Sandbox
+# NCX Tracking EBIS
 <div style="display: flex;">
-    <img src="https://github.com/erikprakoso/fitness_application/blob/master/assets/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-14%20at%2013.49.04.png" alt="Image" width="25%" height="50%">
-    <img src="https://github.com/erikprakoso/fitness_application/blob/master/assets/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-14%20at%2013.49.08.png" alt="Image" width="25%" height="50%">
-    <img src="https://github.com/erikprakoso/fitness_application/blob/master/assets/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-14%20at%2013.49.10.png" alt="Image" width="25%" height="50%">
-    <img src="https://github.com/erikprakoso/fitness_application/blob/master/assets/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-14%20at%2013.49.12.png" alt="Image" width="25%" height="50%">
-    <img src="https://github.com/erikprakoso/fitness_application/blob/master/assets/images/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-14%20at%2013.49.15.png" alt="Image" width="25%" height="50%">
+    <img src="https://github.com/erikprakoso/portfolio/blob/master/images/Screenshot%202023-10-26%20at%2011.52.54.png" alt="Image" width="25%" height="50%">
+    <img src="https://github.com/erikprakoso/portfolio/blob/master/images/Screenshot%202023-10-26%20at%2013.06.39.png" alt="Image" width="25%" height="50%">
+    <img src="https://github.com/erikprakoso/portfolio/blob/master/images/Screenshot%202023-10-26%20at%2013.10.36.png" alt="Image" width="25%" height="50%">
 </div>
